@@ -54,11 +54,7 @@ This repo is following the end-to-end tutorial by Databricks: https://docs.datab
 
 ### Workflow
 > Schedule the data pipeline job
-> set as UTC+5 Everyday 22:00
+> set as UTC+5 Evern Monday 08:00
 
-![img_1.png](imgs/img_1.png)
+![schedule.png](outputs/schedule.png)
 
-## Reference
-
-1.  https://github.com/nogibjj/python-template
-2. https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html
