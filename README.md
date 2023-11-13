@@ -9,7 +9,9 @@ Include at least one data source and one data sink
 ## Preparation
 
 1. Azure Databricks
-2. Song Dataset
+2. Create a self-defined cluster
+3. Import Song Dataset
+4. Perform data analysis in Databricks
 
 ## Run and Result
 
