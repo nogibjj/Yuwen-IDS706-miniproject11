@@ -6,6 +6,9 @@ Create a data pipeline using Databricks
 
 Include at least one data source and one data sink
 
+This repo is following the end-to-end tutorial by Databricks: https://docs.databricks.com/en/getting-started/data-pipeline-get-started.html
+
+
 ## Preparation
 
 1. Azure Databricks
