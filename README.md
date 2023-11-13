@@ -27,7 +27,7 @@ This repo is following the end-to-end tutorial by Databricks: https://docs.datab
 
 ![injest.png](outputs/injest.png)
 
-> data
+> table created
 
 ![data.png](outputs/data.png)
 
