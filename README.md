@@ -18,12 +18,12 @@ This repo is following the end-to-end tutorial by Databricks: https://docs.datab
 
 ## Run and Result
 
-### Create four Databricks notebooks
+### Create three Databricks notebooks
 
 ![workspace.png](outputs/workspace.png)
 
 ### Ingest the raw data
-> column
+> notebook
 
 ![injest.png](outputs/injest.png)
 
